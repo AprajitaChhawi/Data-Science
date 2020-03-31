@@ -13,6 +13,7 @@
 * [10.Logistic regression (probability)](https://github.com/AprajitaChhawi/Data-Science/blob/master/Admittance.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.01.%20Admittance.csv)
 * [11.how to incorporate categorical values](https://github.com/AprajitaChhawi/Data-Science/blob/master/Dummy%20Variables.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
 * [11.Making predictions and confusion matrix](https://github.com/AprajitaChhawi/Data-Science/blob/master/Making%20predictions.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
+* [11.Basics of clustering(K-Means)](https://github.com/AprajitaChhawi/Data-Science/blob/master/country%20clusters.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.01.%20Country%20clusters.csv)
 
 
 
