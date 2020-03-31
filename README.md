@@ -12,5 +12,7 @@
 * [9.Binary prediction using scikit-learn ](https://github.com/AprajitaChhawi/Data-Science/blob/master/binary%20predictors%20final.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.02.%20Binary%20predictors.csv)
 * [10.Logistic regression (probability)](https://github.com/AprajitaChhawi/Data-Science/blob/master/Admittance.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.01.%20Admittance.csv)
 * [11.how to incorporate categorical values](https://github.com/AprajitaChhawi/Data-Science/blob/master/Dummy%20Variables.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
+* [11.Making predictions and confusion matrix](https://github.com/AprajitaChhawi/Data-Science/blob/master/Making%20predictions.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
+
 
 
