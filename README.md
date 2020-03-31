@@ -9,4 +9,5 @@
 * [6.Standardization using scikit-learn](https://github.com/AprajitaChhawi/Data-Science/blob/master/standardization%20using%20sklearn.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/real_estate_price_size_year_view.csv)
 * [7.Project to predict price of 2nd hand car](https://github.com/AprajitaChhawi/Data-Science/blob/master/practical%20example.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.04.%20Real-life%20example.csv)
 * [8.Multiple Regression Line using scikit learn](https://github.com/AprajitaChhawi/Data-Science/blob/master/mulitple%20regression%20lines.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/real_estate_price_size_year_view.csv)
+* [9.Binary prediction using scikit-learn ](https://github.com/AprajitaChhawi/Data-Science/blob/master/binary%20predictors%20final.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.02.%20Binary%20predictors.csv)
 
