@@ -11,4 +11,6 @@
 * [8.Multiple Regression Line using scikit learn](https://github.com/AprajitaChhawi/Data-Science/blob/master/mulitple%20regression%20lines.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/real_estate_price_size_year_view.csv)
 * [9.Binary prediction using scikit-learn ](https://github.com/AprajitaChhawi/Data-Science/blob/master/binary%20predictors%20final.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.02.%20Binary%20predictors.csv)
 * [10.Logistic regression (probability)](https://github.com/AprajitaChhawi/Data-Science/blob/master/Admittance.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/2.01.%20Admittance.csv)
+* [10.how to incorporate categorical values](https://github.com/AprajitaChhawi/Data-Science/blob/master/Dummy%20Variables.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
+
 
