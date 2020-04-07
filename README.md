@@ -14,6 +14,7 @@
 * [11.how to incorporate categorical values](https://github.com/AprajitaChhawi/Data-Science/blob/master/Dummy%20Variables.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
 * [11.Making predictions and confusion matrix](https://github.com/AprajitaChhawi/Data-Science/blob/master/Making%20predictions.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
 * [12.Basics of clustering(K-Means)](https://github.com/AprajitaChhawi/Data-Science/blob/master/country%20clusters.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.01.%20Country%20clusters.csv)
+* [13.A project on market segmentation](https://github.com/AprajitaChhawi/Data-Science/blob/master/Market_segmentation.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.12.%20Example.csv)
 
 
 
