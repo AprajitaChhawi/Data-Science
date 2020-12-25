@@ -15,6 +15,6 @@
 * [11.Making predictions and confusion matrix](https://github.com/AprajitaChhawi/Data-Science/blob/master/Making%20predictions.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/1.03.%20Dummies.csv)
 * [12.Basics of clustering(K-Means)](https://github.com/AprajitaChhawi/Data-Science/blob/master/country%20clusters.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.01.%20Country%20clusters.csv)
 * [13.A project on market segmentation](https://github.com/AprajitaChhawi/Data-Science/blob/master/Market_segmentation.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.12.%20Example.csv)
-
+* [14.A project on different distance classifiers and their misclassification rate](https://github.com/AprajitaChhawi/Data-Science/blob/master/Various%20Distance%20Classifiers%20and%20their%20mean%20error%20rate) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/Iris.csv)
 
 
