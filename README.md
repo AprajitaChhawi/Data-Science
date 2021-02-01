@@ -16,5 +16,5 @@
 * [12.Basics of clustering(K-Means)](https://github.com/AprajitaChhawi/Data-Science/blob/master/country%20clusters.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.01.%20Country%20clusters.csv)
 * [13.A project on market segmentation](https://github.com/AprajitaChhawi/Data-Science/blob/master/Market_segmentation.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/3.12.%20Example.csv)
 * [14.A project on different distance classifiers and their misclassification rate](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220CS2599.ipynb) [& Enclosing data](https://github.com/AprajitaChhawi/Data-Science/blob/master/Iris.csv)
-
-
+* [15.A project on Naive Bayes Classifier](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220CS2599_ASSIGNMENT2_BAYES_QUESTION.ipynb)
+* [16.A project on River-NonRiver Classifier based on Bayes Classification](https://github.com/AprajitaChhawi/Data-Science/blob/master/APRAJITA_CHHAWI_220CS99_RIVER_NONRIVER_CLASSIFIER.ipynb) [& Enclosing images are named 1,2,3,4.jpg]
