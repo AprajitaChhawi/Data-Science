@@ -23,3 +23,4 @@
 * [19.Implementation of Principal Component Analysis From Scratch](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220CS2599_PCA_FACE_RECOGNITION.ipynb) [& Enclosing images are named 1,2,3,4.jpg]
 * [20.Implementation of Linear Discriminant Analysis From Scratch](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220C11S2599_LDA_FACE_RECOGNITION.ipynb) [& Enclosing images are named 1,2,3,4.jpg]
 * [21.Implementation of Perceptron of Basic Gates (and,or,nand,nor and exor) From Scratch](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220CS2599_BASIC_GATE_PRECEPTRON.ipynb)
+* [22.Implementation of K-Means And K-Medoids From Scratch](https://github.com/AprajitaChhawi/Data-Science/blob/master/CHHAWI_APRAJITA_220CS2599_KMEANS_CLUSTERING.ipynb) [& Enclosing images are named 1,2,3,4.jpg]
